@@ -41,10 +41,10 @@ The current version is **1.1.0**
 ## Changelog
 ### 1.1.0
 - added theme-swither
-- 
+
 ### 1.0.0
 - initial release
-- 
+
 ## Dependencies
 The plugin works with jQuery 1.7+
 
