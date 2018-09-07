@@ -39,6 +39,9 @@ to be done…
 ## Version
 The current version is **1.1.0**
 ## Changelog
+### 1.1.1
+- fixed issue with default theme on toggle if usecookie is enabled
+
 ### 1.1.0
 - added theme-switcher
 
