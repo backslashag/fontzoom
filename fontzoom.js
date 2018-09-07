@@ -108,7 +108,7 @@ var fontzoom = {
     toggle_theme: function(){
         $(this.defaults.themetargetelement).toggleClass(this.defaults.themetoggleclass);
         if( this.defaults.usecookie ) {
-            var currentTheme = 'default';
+            var currentTheme = '';
             if($(this.defaults.themetargetelement).hasClass(this.defaults.themetoggleclass)){
                 currentTheme = this.defaults.themetoggleclass;
             }
